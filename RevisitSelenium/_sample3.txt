@@ -1,0 +1,2 @@
+As good as a new line
+ .....  This is continuation and forms secondline.This is just to check strings
