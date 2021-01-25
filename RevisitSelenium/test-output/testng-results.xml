@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="664" started-at="2020-04-10T17:19:30 IST" finished-at="2020-04-10T17:19:30 IST">
+  <suite name="Default suite" duration-ms="11257" started-at="2021-01-25T17:47:20 IST" finished-at="2021-01-25T17:47:32 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="664" started-at="2020-04-10T17:19:30 IST" finished-at="2020-04-10T17:19:30 IST">
-      <class name="selenium_learning.Class_24">
-        <test-method status="PASS" signature="databaseConnection()[pri:0, instance:selenium_learning.Class_24@627551fb]" name="databaseConnection" duration-ms="604" started-at="2020-04-10T17:19:30 IST" finished-at="2020-04-10T17:19:30 IST">
+    <test name="Default test" duration-ms="11257" started-at="2021-01-25T17:47:20 IST" finished-at="2021-01-25T17:47:32 IST">
+      <class name="selenium_learning.Class_4">
+        <test-method status="PASS" signature="validateURL()[pri:0, instance:selenium_learning.Class_4@6cd5122d]" name="validateURL" duration-ms="11104" started-at="2021-01-25T17:47:20 IST" finished-at="2021-01-25T17:47:31 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- databaseConnection -->
-      </class> <!-- selenium_learning.Class_24 -->
+        </test-method> <!-- validateURL -->
+      </class> <!-- selenium_learning.Class_4 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
